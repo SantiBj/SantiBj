@@ -5,7 +5,8 @@
     Hola, soy Santiago👋 <br>
     🔥 Desarrollador de software <br>
     :sparkles: Herramientas de desarrollo: JavaScript, React, Django, Java, Spring Boot, Python, Typescript ... <br>
-    <a href="mailto:lsantibz@gmail.com">Email: lsantibz@gmail.com</a><br>
+    Email: <a href="mailto:lsantibz@gmail.com">lsantibz@gmail.com</a>
+    <br>
                 Linkedin:www.linkedin.com/in/luis-santiago-bj-8a2037272<br>
 
   </samp>
